@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/axewbotx" target="blank"><img src="https://img.shields.io/twitter/follow/axewbotx?logo=twitter&style=for-the-badge" alt="axewbotx" /></a> </p>
 
-- 🌱 I’m currently learning **React, Chakra-ui, NPM**
+- 🌱 I’m currently learning **A Shit Lot Of Stuff**
 
 - 💬 Ask me about **Anything**
 
