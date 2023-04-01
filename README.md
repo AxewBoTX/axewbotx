@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Shit Lot Of Stuff**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://axewbotx.is-a.dev/](https://axewbotx.is-a.dev/)
 
