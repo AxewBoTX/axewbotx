@@ -5,8 +5,6 @@
 </div>
 <p target="_blank" href="https://axewbotx.is-a.dev/" align="center">https://axewbotx.is-a.dev/</p>
 
-<br/>
-
 - ⚙️ I use daily: `.go`, `.c`, `.js`, `.html`, `.css`
 - 💬 `ping` me about **backend**, **frontend**
 
